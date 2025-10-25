@@ -1,4 +1,3 @@
-🧾 README.md
 ✈️ IndiGo Airlines Feedback Analysis
 
 This project focuses on analyzing customer feedback data for IndiGo Airlines to identify common themes, satisfaction levels, and improvement areas.
